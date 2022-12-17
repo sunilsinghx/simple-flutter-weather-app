@@ -1,5 +1,5 @@
 # simple-flutter-weather-app
- tried simple weather app youtube, documentation
+ tried simple weather app with help of youtube, flutter documentation
  
  
  
